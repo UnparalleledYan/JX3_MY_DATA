@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "成就周边监控",
+  "author": "颜无双",
+  "version": "20191101",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
